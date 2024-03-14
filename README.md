@@ -15,7 +15,7 @@ This is a simple password generator app built with React. It allows users to gen
 ### Installation
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/password-generator-app.git
+    git clone https://github.com/sharyark/reacProject.git
     ```
 
 2. Navigate to the project directory:
